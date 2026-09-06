@@ -26,7 +26,7 @@ The palm-based CIELAB approach achieved better performance and showed greater ro
 
 ## Authors
 
-Ganesh M, Manjiswari J, Komali Priya P, Saladi Saritha, Yepuganti Karuna
+Manjiswari J
 
 ## Paper
 
